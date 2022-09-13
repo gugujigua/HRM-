@@ -1,0 +1,93 @@
+{
+  "id": "3523266",
+  "name": "HRM",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14175941",
+      "name": "社保信息查询",
+      "font_class": "zhengzhouyinhangAPPtubiaodiergaolunkuohuachunse-46",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "5387733",
+      "name": "个人信息",
+      "font_class": "gerenxinxi",
+      "unicode": "eb45",
+      "unicode_decimal": 60229
+    },
+    {
+      "icon_id": "11140102",
+      "name": "社保服务",
+      "font_class": "shebaofuwu",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "12163490",
+      "name": "系统管理",
+      "font_class": "xitongguanli",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "22447426",
+      "name": "薪资明细",
+      "font_class": "xinzimingxi",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "26876079",
+      "name": "薪资管理",
+      "font_class": "xinziguanli",
+      "unicode": "ea4a",
+      "unicode_decimal": 59978
+    },
+    {
+      "icon_id": "23446405",
+      "name": "圆形",
+      "font_class": "yuanxing",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "1079372",
+      "name": "招聘",
+      "font_class": "zhaopin",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "6211882",
+      "name": "6-1员工",
+      "font_class": "-yuangong",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "10595282",
+      "name": "子级_组织架构_jurassic",
+      "font_class": "jurassic_child",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "12250140",
+      "name": "工作台",
+      "font_class": "gongzuotai",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "887801",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
